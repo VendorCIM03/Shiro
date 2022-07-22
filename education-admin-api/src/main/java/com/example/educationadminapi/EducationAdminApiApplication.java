@@ -12,6 +12,10 @@ public class EducationAdminApiApplication {
 	public String test(){
 		return "success";
 	}
+	
+	public void test(){
+		return "test2";
+	}
 
 	public static void main(String[] args) {
 		SpringApplication.run(EducationAdminApiApplication.class, args);
