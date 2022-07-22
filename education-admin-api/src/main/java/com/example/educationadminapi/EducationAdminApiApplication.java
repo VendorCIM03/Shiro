@@ -13,8 +13,8 @@ public class EducationAdminApiApplication {
 		return "success";
 	}
 	
-	public void test(){
-		return "test2";
+	public void test2(){
+
 	}
 
 	public static void main(String[] args) {
